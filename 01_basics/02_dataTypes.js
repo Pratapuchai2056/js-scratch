@@ -11,6 +11,7 @@ console.log("Pratap")
 let name="pratap"
 let age=18
 let isLoggedIn=false
+let state;
 
 // number =>2 to power 53
 // bigint
